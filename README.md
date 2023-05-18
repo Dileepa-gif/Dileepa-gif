@@ -11,6 +11,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dileepa-jayaweera-397128193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilshan-theekshana" height="30" width="40" /></a>
+<a href="#">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Hackerrank-mintgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
+  </a>
 
 
 <h3>
@@ -28,11 +34,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </div>
 
-<h3>Stats:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Theekshana96&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Theekshana96&theme=radical"/>|
-|--|--|
-<p align="center"><img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Theekshana96&show_icons=true&locale=en&layout=compact&theme=radical"alt="Theekshana96" /></p>
