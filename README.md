@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate **with other content creators**
 - 💬 Ask me about **Angular, SpringBoot, MERN Stack**
 - 📫 How to reach me **malaka.18@itfac.mrt.ac.lk**
-- ⚡ Interests: 🎧 Music ,🚶‍♂️ Travelling, 🎯 Gaming
+- ⚡ Interests: 🎧 Music ,🚶‍♂️ Travelling, 🎯 Gaming, 📸 Photography
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
